@@ -78,6 +78,7 @@ a:hover {
   border-radius: 10px;
   height: 100%;
   width: 100px;
+  outline:none;
 }
 #search-logo {
   padding-right: 10px;
