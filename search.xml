@@ -24,6 +24,18 @@
         <content type="html"><![CDATA[<p>用于测试的博文</p>]]></content>
       
       
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 1 </tag>
+            
+        </tags>
       
     </entry>
     
