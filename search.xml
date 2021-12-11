@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>second</title>
+      <link href="/2021/12/11/second/"/>
+      <url>/2021/12/11/second/</url>
+      
+        <content type="html"><![CDATA[<p>不知道行不行</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> web </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> second </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>测试2</title>
       <link href="/2021/12/10/%E6%B5%8B%E8%AF%952/"/>
       <url>/2021/12/10/%E6%B5%8B%E8%AF%952/</url>
@@ -26,14 +51,14 @@
       
       <categories>
           
-          <category> 测试 </category>
+          <category> web前端 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 1 </tag>
+            <tag> jQuery </tag>
             
         </tags>
       
